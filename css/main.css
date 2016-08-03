@@ -1,0 +1,34 @@
+#logo{
+	width: 70%;
+	margin-left: 30%;
+	margin-top: 8%;
+}
+.menu{
+	border-left: 1px solid;
+}	
+.banner{
+	background-image: url("../img/semilla.jpg");
+	height: 400px;
+}
+.metodo{
+	background-image: url("../img/metodo.jpg");
+	height: 300px;
+}
+.fondo{
+	background-image: url("../img/fondo.jpg");
+	height: 300px;
+}
+.fondo2{
+	background-image: url("../img/fondo2.jpg");
+}
+.tabla{
+	border:1px solid white;
+}
+.iconos{
+	width: 15%;
+	padding-top:40%; 
+	margin-left: 80%;
+}
+.e-mail{
+	margin-bottom: 6%;
+}
